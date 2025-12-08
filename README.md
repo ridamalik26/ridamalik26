@@ -1,17 +1,23 @@
-<!-- Custom Banner -->
+<!-- Animated Banner (Clean & Professional) -->
 <p align="center">
-  <img src="img.png" alt="Rida Malik Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1200&color=F72BB4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rida+Malik+✨;Application+Developer+%7C+UI%2FUX+Focused;Flutter+%7C+Node.js+%7C+Firebase+%7C+MongoDB;Turning+Ideas+Into+Smooth+User+Experiences" />
 </p>
 
-<!-- Animated Wave -->
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+I’m an <b>Application & Frontend Developer</b> who loves crafting clean, modern and user-focused interfaces.  
+With strong UI/UX instincts and hands-on experience in mobile + web development,  
+I build apps that look great and feel even better to use.
 </p>
 
-<h1 align="center">✨ Hi, I'm Rida Malik</h1>
-
-<h3 align="center">Flutter Developer • Node.js • Firebase • MongoDB</h3>
-<h4 align="center">UI/UX Oriented Application Developer | 7th Semester Software Engineering Student</h4>
+- 🎨 UI/UX oriented — wireframes, clean layouting, and fluid user experiences  
+- 📱 Flutter developer focused on smooth, elegant UI  
+- 🟩 Node.js + Firebase + MongoDB backend experience  
+- 🚀 Actively improving frontend logic, app performance & modern development patterns  
+- 📖 Writing clean, maintainable, production-ready code is my priority  
 
 ---
 
@@ -37,43 +43,41 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ThunderClient-black?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 🌱 Currently Learning (Short & Clean)
-
-- Advanced Flutter (State Management, Animations, Clean Architecture)
-- Advanced Node.js (Auth, Caching, APIs)
-- SQL Fundamentals
-- Basics of AI, ML & GenAI in app development
+## 🌱 Currently Learning  
+- Advanced Flutter (Animations, Clean Architecture, State Management)  
+- Advanced Node.js (Auth, Caching, APIs, Best Practices)  
+- SQL Fundamentals  
+- AI, ML & GenAI basics for app integration  
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ridamalik26&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ridamalik26&layout=compact&theme=radical" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridamalik26&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridamalik26&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔥 Streak Stats (Error-Free Version)
-
+## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridamalik26&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ridamalik26&theme=radical" height="165" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rida-malik-1a8aa0313">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
-  </a>  
+  </a>
   <a href="mailto:malikrida406@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
   </a>
@@ -81,4 +85,5 @@
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! Feel Free to explore my repositories. </p>
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my work. :)</p>
+
