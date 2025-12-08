@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=900&height=80&lines=Rida+Malik;Application+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=900&height=80&lines=Welcome;Rida+Malik;Application+Developer" />
 </p>
 
 <!-- Animated Wave -->
