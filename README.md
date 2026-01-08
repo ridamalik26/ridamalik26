@@ -31,12 +31,6 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge" />
-
 </p>
 
 ---
