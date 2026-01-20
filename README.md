@@ -1,20 +1,29 @@
-<!-- 🌈 Animated Banner -->
+<!-- 🌈 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=900&height=80&lines=Welcome;Rida+Malik;Application+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Rida+Malik+👋;Application+Developer;Flutter+%7C+Node.js+Enthusiast;Building+Beautiful+%26+Scalable+Apps" />
 </p>
 
-
-## 🌸 About Me
-
-- 💻 I am an **Application Developer** focused on building clean, modern, and visually appealing apps.  
-- 🎨 I create smooth UI with thoughtful user experience and aesthetic design choices.  
-- 🚀 Passionate about mobile development using **Flutter** and backend development with **Node.js**.  
-- 🌱 Continuously learning advanced development patterns and improving my craft.  
-- 🔍 Love building real projects that look good *and* work efficiently.
+<p align="center">
+  💡 Turning ideas into clean, functional & visually stunning applications
+</p>
 
 ---
 
-## 🚀 Tech Stack  
+## 🌸 About Me
+
+✨ I’m **Rida Malik**, an **Application Developer** who loves crafting applications that feel as good as they look.
+
+- 💻 Focused on building **modern, clean, and user-friendly apps**
+- 🎨 Strong eye for **UI/UX, animations & visual polish**
+- 🚀 Specialized in **Flutter** for mobile apps and **Node.js** for backend systems
+- 🌱 Constantly learning **advanced development patterns & architectures**
+- 🔍 I enjoy building **real-world projects** that are scalable, efficient & elegant
+
+> I believe great software is a balance between **performance, beauty, and usability**.
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
 
@@ -35,12 +44,16 @@
 
 ---
 
-## 🌱 Currently Learning (Clean & Short)
+## 🌱 Currently Learning
 
-- Advanced Flutter (State Management, Clean Architecture, Animations)  
-- Advanced Node.js (Authentication, Caching, APIs)  
-- SQL Fundamentals  
-- Basics of AI, ML & GenAI for app enhancement  
+📌 Always upgrading my skill set:
+
+- ⚡ Advanced **Flutter**  
+  *(State Management, Clean Architecture, Animations)*
+- 🔐 Advanced **Node.js**  
+  *(Authentication, APIs, Performance & Caching)*
+- 🗄️ **SQL Fundamentals**
+- 🤖 Basics of **AI, ML & Generative AI** for smarter apps
 
 ---
 
@@ -53,7 +66,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=ridamalik26&theme=radical" />
@@ -61,17 +74,16 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rida-malik-1a8aa0313">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:malikrida406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories. </p>
+<p align="center">
+  🌟 *Open to collaboration, learning, and exciting opportunities* 🌟
+</p>
